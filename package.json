@@ -9,6 +9,7 @@
     "start": "nodemon --exec babel-node src/server.js"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "graphql-yoga": "^1.17.4"
   },
   "devDependencies": {
